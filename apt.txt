@@ -1,5 +1,4 @@
 dvipng
-dvisvgm
 ghostscript
 texlive-fonts-recommended
 texlive-generic-recommended
