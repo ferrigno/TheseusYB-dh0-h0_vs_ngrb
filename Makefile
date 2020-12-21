@@ -8,6 +8,4 @@ notebook: pull
 
 pull:
 	docker pull $(IMAGE)
-	docker pull $(IMAGE_LATEST)
-
 
