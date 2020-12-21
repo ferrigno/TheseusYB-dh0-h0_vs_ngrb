@@ -9,4 +9,3 @@ notebook: pull
 pull:
 	docker pull $(IMAGE)
 
-
